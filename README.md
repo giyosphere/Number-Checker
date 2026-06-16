@@ -36,3 +36,6 @@ positive: false, negative: true, zero: false, even: false, odd: true
 positive: true, negative: false, zero: true, even: true, odd: false
 positive: false, negative: true, zero: false, even: false, odd: true
 ```
+
+## Project URL
+https://roadmap.sh/projects/js-number-checker
